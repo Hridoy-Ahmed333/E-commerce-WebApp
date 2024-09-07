@@ -6,6 +6,13 @@
       "lastName": "Hossain Ridoy",
       "email": "hridoy@gmail.com",
       "password": "123"
+    },
+    {
+      "id": "acfb",
+      "firstName": "Md. Rubayat ",
+      "lastName": "Ridoy",
+      "email": "a@gmail.com",
+      "password": "123"
     }
   ],
   "rockingChair": [

@@ -8,5 +8,6 @@ Open a terminal and run "npm i"
 To run "server", run "npm run server"
 Open 2nd terminal (Do not close the first terminal)
 To Run the "React Application" Run "npm run dev".
-Than create an user.
+Go to this link "http://localhost:5173/"
+Than Signup as an user.
 Login with the user email and password.
